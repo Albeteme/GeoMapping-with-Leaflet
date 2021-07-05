@@ -1,4 +1,4 @@
-# Leaflet
+# GEO Mapping with Leaflet
 
 This project is about visualizing an earthquake data set with data from the USGS.
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. 

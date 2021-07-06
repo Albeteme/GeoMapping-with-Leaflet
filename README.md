@@ -1,6 +1,6 @@
 # GEO Mapping with Leaflet
 
-This project is about visualizing an earthquake data set with data from the USGS.
+This project is about visualizing an earthquake data set with data from the United States Geological Survey (USGS).
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. 
 After visiting the USGS GeoJSON Feed page and picking a data set to visualize, I had to use the URL of this JSON to pull in the data for the visualization.
 
